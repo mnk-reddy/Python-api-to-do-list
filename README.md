@@ -16,10 +16,13 @@ Create API:
           Can be multivalued
           
 Delete task:
+
           use /delete send parameter: "Task" with value task name
           
 Update task:
+
           use /update send parameter: "Task" with value task name
           
 Get all tasks:
+
           use /tasks
